@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="client_main" target="1.8" />
+      <module name="client_test" target="1.8" />
+      <module name="interface_main" target="1.8" />
+      <module name="interface_test" target="1.8" />
+      <module name="JaPlaceClient_main" target="1.8" />
+      <module name="JaPlaceClient_test" target="1.8" />
+      <module name="jdbc-impl_main" target="1.8" />
+      <module name="jdbc-impl_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

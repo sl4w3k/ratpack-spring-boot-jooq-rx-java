@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JaPlaceClient.iml" filepath="$PROJECT_DIR$/JaPlaceClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JaPlaceClient_main.iml" filepath="$PROJECT_DIR$/.idea/modules/JaPlaceClient_main.iml" group="JaPlaceClient" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JaPlaceClient_test.iml" filepath="$PROJECT_DIR$/.idea/modules/JaPlaceClient_test.iml" group="JaPlaceClient" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/client/client.iml" filepath="$PROJECT_DIR$/.idea/modules/client/client.iml" group="client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/client/client_main.iml" filepath="$PROJECT_DIR$/.idea/modules/client/client_main.iml" group="client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/client/client_test.iml" filepath="$PROJECT_DIR$/.idea/modules/client/client_test.iml" group="client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/interface/interface.iml" filepath="$PROJECT_DIR$/.idea/modules/interface/interface.iml" group="interface" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/interface/interface_main.iml" filepath="$PROJECT_DIR$/.idea/modules/interface/interface_main.iml" group="interface" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/interface/interface_test.iml" filepath="$PROJECT_DIR$/.idea/modules/interface/interface_test.iml" group="interface" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jdbc-impl/jdbc-impl.iml" filepath="$PROJECT_DIR$/.idea/modules/jdbc-impl/jdbc-impl.iml" group="jdbc-impl" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jdbc-impl/jdbc-impl_main.iml" filepath="$PROJECT_DIR$/.idea/modules/jdbc-impl/jdbc-impl_main.iml" group="jdbc-impl" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jdbc-impl/jdbc-impl_test.iml" filepath="$PROJECT_DIR$/.idea/modules/jdbc-impl/jdbc-impl_test.iml" group="jdbc-impl" />
+    </modules>
+  </component>
+</project>
